@@ -4,17 +4,17 @@
 
 
 
-.full {
-  background: url('./img/homeimag.jpeg') no-repeat center center fixed;
-
-  -o-background-size: cover;
-  height: 100%;
+.full{
+background: url('./img/homeimag.jpeg') no-repeat center center fixed;
+ height: 100vh;
+ -o-background-size: cover;
  -webkit-background-size: cover;
  -moz-background-size: cover;
  -o-background-size: cover;
  background-size: cover;
 }
-.logoimage {
+.logoimage{
   text-align: center;
-  padding-top: 310px;
+  padding-top: 180px;
+  
 }

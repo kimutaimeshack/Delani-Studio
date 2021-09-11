@@ -1,0 +1,12 @@
+#story {
+  display: none;
+}
+
+.containerhome {
+  height: 650px;
+  background-image: url("./img/homeimag.jpeg");
+}
+.logoimage{
+  text-align: center;
+  padding-top: 310px;
+}

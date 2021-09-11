@@ -8,7 +8,6 @@
 background: url('./img/homeimag.jpeg') no-repeat center center fixed;
  height: 100vh;
  width: 100vh;
- -o-background-size: cover;
  -webkit-background-size: cover;
  -moz-background-size: cover;
  -o-background-size: cover;
@@ -26,4 +25,16 @@ background: url('./img/homeimag.jpeg') no-repeat center center fixed;
 }
 .aboutpage{
   text-align: center;
+}
+
+
+.servicebackgroundimage{
+
+  background: url('./img/s_image.jpg') no-repeat center center fixed;
+  height: 100vh;
+  width: 100vh;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }

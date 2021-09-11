@@ -44,3 +44,13 @@ background: url('./img/homeimag.jpeg') no-repeat center center fixed;
   background-repeat: no-repeat;
   font-size: 19px;
 }
+
+
+.ourwork {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.workstart{
+  border: 2px solid red;
+}

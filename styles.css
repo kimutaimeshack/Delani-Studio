@@ -2,11 +2,19 @@
   display: none;
 }
 
-.containerhome {
-  height: 650px;
-  background-image: url("./img/homeimag.jpeg");
+
+
+.full {
+  background: url('./img/homeimag.jpeg') no-repeat center center fixed;
+
+  -o-background-size: cover;
+  height: 100%;
+ -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-size: cover;
 }
-.logoimage{
+.logoimage {
   text-align: center;
   padding-top: 310px;
 }

@@ -18,12 +18,12 @@
           $("#fast-showing").toggle();
           $("#fast-hidden").toggle();
         });
+         
 
-
-            $(".imageportfolio").hover(function() {
-            $(".projectname").show();
-            }, function(){
-            $(".projectname").css("background-color", "pink");
-  });
+            $("#ma3").hover(function() {
+            $(".myfirstwork").show();
+             } , function() {
+                $(".myfirstwork").hide();
+            });
       });
-    
+    ma

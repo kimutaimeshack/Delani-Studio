@@ -21,9 +21,9 @@
 
 
             $(".imageportfolio").hover(function() {
-            $(".Portfoliopage").css("background-color", "green");
-            }, function() {
-                $(".Portfoliopage").css("background-color", "yellow");
-            });
+            $(".projectname").show();
+            }, function(){
+            $(".projectname").css("background-color", "pink");
+  });
       });
     

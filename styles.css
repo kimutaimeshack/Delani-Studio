@@ -97,7 +97,9 @@ justify-content: center;
   height: 180px;
   width: 190px;
 }
-
+.projectname{
+  display: none;
+}
 
 
 /* .clickable {

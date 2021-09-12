@@ -18,5 +18,12 @@
           $("#fast-showing").toggle();
           $("#fast-hidden").toggle();
         });
+
+
+            $(".imageportfolio").hover(function() {
+            $(".Portfoliopage").css("background-color", "green");
+            }, function() {
+                $(".Portfoliopage").css("background-color", "yellow");
+            });
       });
     

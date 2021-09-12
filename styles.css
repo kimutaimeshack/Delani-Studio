@@ -2,7 +2,7 @@
   display: none;
 }
 
-
+/* HOME PAGE  */
 
 .homepagebackgroundImage {
 background: url('./img/homeimag.jpeg') no-repeat center center fixed;
@@ -25,10 +25,21 @@ background: url('./img/homeimag.jpeg') no-repeat center center fixed;
   padding-top: 140px;
   font-size: 38px;
 }
+
+
+/* HOME PAGE END  */
+
+
+/*  ABOUT PAGE START */
 .aboutpage{
   text-align: center;
 }
 
+
+
+/* about page end */
+
+/* service page start */
 
 .servicebackgroundimage{
 
@@ -46,11 +57,20 @@ background: url('./img/homeimag.jpeg') no-repeat center center fixed;
 }
 
 
+/* service page end */
+
+
+
+/* WHAT WE DO page start */
 .ourwork {
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: space-between;
+  
 }
 .workstart{
-  border: 2px solid red;
+  
+
 }
+
+/* WHAT WE DO end  */

@@ -81,6 +81,25 @@ background: url('./img/homeimag.jpeg') no-repeat center center fixed;
 #fast-showing {
   display: none;
 }
+
+
+/* portfolio startpage */
+.Portfoliopage{
+  text-align: center;
+}
+.Portfoliobox {
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.imageportfolio{
+  height: 180px;
+  width: 190px;
+}
+
+
+
 /* .clickable {
   cursor: pointer;
   color: #0088cc;

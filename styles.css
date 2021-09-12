@@ -1,6 +1,3 @@
-#story {
-  display: none;
-}
 
 /* HOME PAGE  */
 
@@ -70,7 +67,9 @@ background: url('./img/homeimag.jpeg') no-repeat center center fixed;
 }
 .workstart{
   
-
+}
+#initially-hidden {
+  display: none;
 }
 
 /* WHAT WE DO end  */

@@ -66,10 +66,23 @@ background: url('./img/homeimag.jpeg') no-repeat center center fixed;
   
 }
 .workstart{
+   width: 400px; 
   
 }
-#initially-hidden {
+
+
+.initially-showing {
   display: none;
 }
+
+/* .clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+  color: red;
+} */
 
 /* WHAT WE DO end  */

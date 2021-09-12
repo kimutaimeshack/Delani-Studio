@@ -66,15 +66,21 @@ background: url('./img/homeimag.jpeg') no-repeat center center fixed;
   
 }
 .workstart{
-   width: 400px; 
+   width: 380px; 
   
 }
 
 
-.initially-showing {
+#initially-showing {
   display: none;
 }
 
+#start-showing {
+  display: none;
+}
+#fast-showing {
+  display: none;
+}
 /* .clickable {
   cursor: pointer;
   color: #0088cc;

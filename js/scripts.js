@@ -19,11 +19,53 @@
           $("#fast-hidden").toggle();
         });
          
+            $("#ma1").hover(function() {
+            $(".myfirstwork1").show();
+             } , function() {
+                $(".myfirstwork1").hide();
+            });
+
+            $("#ma2").hover(function() {
+            $(".myfirstwork2").show();
+             } , function() {
+                $(".myfirstwork2").hide();
+            });
 
             $("#ma3").hover(function() {
-            $(".myfirstwork").show();
+            $(".myfirstwork3").show();
              } , function() {
-                $(".myfirstwork").hide();
+                $(".myfirstwork3").hide();
             });
+
+             $("#ma4").hover(function() {
+            $(".myfirstwork4").show();
+             } , function() {
+                $(".myfirstwork4").hide();
+            });
+ 
+            $("#ma5").hover(function() {
+            $(".myfirstwork5").show();
+             } , function() {
+                $(".myfirstwork5").hide();
+            });
+            
+            $("#ma6").hover(function() {
+            $(".myfirstwork6").show();
+             } , function() {
+                $(".myfirstwork6").hide();
+            });
+
+            $("#ma7").hover(function() {
+            $(".myfirstwork7").show();
+             } , function() {
+                $(".myfirstwork7").hide();
+            });
+
+             $("#ma8").hover(function() {
+            $(".myfirstwork8").show();
+             } , function() {
+                $(".myfirstwork8").hide();
+            });
+
       });
-    ma
+  

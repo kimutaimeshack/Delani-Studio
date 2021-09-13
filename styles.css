@@ -94,21 +94,101 @@ justify-content: center;
 }
 
 .imageportfolio{
-  height: 180px;
-  width: 190px;
+  height: 220px;
+  width: 220px;
 }
 .Portfolioimagerow1{
   position: relative;
   text-align: center;
   color: white;
 }
-.myfirstwork{
+.myfirstwork1 {
+  height: 120px;
+  width: 120px;
   display: none;
   position:absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  border: 8px solid blue;
+  border: 20px solid rgb(214, 27, 142);
+  color:greenyellow;
+}
+.myfirstwork2 {
+  height: 120px;
+  width: 120px;
+  display: none;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: 20px solid rgb(214, 27, 142);
+  color:greenyellow;
+}
+.myfirstwork3 {
+  height: 120px;
+  width: 120px;
+  display: none;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: 20px solid rgb(214, 27, 142);
+  color:greenyellow;
+}
+.myfirstwork4 {
+  height: 120px;
+  width: 120px;
+  display: none;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: 20px solid rgb(214, 27, 142);
+  color:greenyellow;
+}
+.myfirstwork5 {
+  height: 120px;
+  width: 120px;
+  display: none;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: 20px solid rgb(214, 27, 142);
+  color:greenyellow;
+}
+.myfirstwork6 {
+  height: 120px;
+  width: 120px;
+  display: none;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: 20px solid rgb(214, 27, 142);
+  color:greenyellow;
+}
+.myfirstwork7 {
+  height: 120px;
+  width: 120px;
+  display: none;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: 20px solid rgb(214, 27, 142);
+  color:greenyellow;
+}
+.myfirstwork8 {
+  height: 120px;
+  width: 120px;
+  display: none;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: 20px solid rgb(214, 27, 142);
+  color:greenyellow;
 }
 
 /* .clickable {

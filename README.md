@@ -1,8 +1,4 @@
 # Delani-Studio
- 
-
-
-# GhanianNaming_Determination
 *********
 ## Author
 MESHACK KIMUTAI
@@ -53,13 +49,15 @@ To fix a bug or enhance an existing module, follow these steps:
 * HTML
 * CSS
 * Javascript
+* Bootstrap 
+* jQuery
 *********
 ## License
 This project is under: 
 
 The MIT licence
 
-Click  [Here](https://github.com/kimutaimeshack/GhanianNaming_Determination/blob/main/LICENSE) to view the LICENSE
+Click  [Here](https://github.com/kimutaimeshack/Delani-Studio/blob/main/LICENSE) to view the LICENSE
 
 
 

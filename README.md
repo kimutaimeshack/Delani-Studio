@@ -8,16 +8,16 @@ MESHACK KIMUTAI
 <table>
 <tr>
 <td>
-This is a practical project to implement everything I have learned from Bootstrap and jQuery to recreate a landing page for a fictional studio. I was provided with all the resources in the assets folder where I am to implement as it is given. The project is build using Javascript and jQuery for functionality, bootstrap and custom CSS for styling, and HTML for designing.
+This is a practical project to implement everything I have learned from Bootstrap and jQuery to recreate a landing page for a fictional studio. The project has the landing page, what we do, portfolio, about page and our service. I was provided with all the resources in the assets folder where I am to implement as it is given. The project is build using Javascript and jQuery for functionality, bootstrap and custom CSS for styling, and HTML for designing. 
 </td>
 </tr>
 </table>
 
 ### Home page
-![alt text](https://github.com/kimutaimeshack/GhanianNaming_Determination/blob/main/img/ghananian.png)
+![alt text](https://github.com/kimutaimeshack/Delani-Studio/blob/main/img/screenshoot.png)
 *********
 ## project live link
-Here is a working live link : https://kimutaimeshack.github.io/GhanianNaming_Determination/
+Here is a working live link : https://kimutaimeshack.github.io/Delani-Studio/
 
 *********
 ## Development
@@ -29,7 +29,7 @@ Here is a working live link : https://kimutaimeshack.github.io/GhanianNaming_Det
 ### Setup Instruction
 To access this project on your local files, you can clone it using these steps
 1. Open your terminal 
-2. Use this command to clone (`git clone https://github.com/kimutaimeshack/GhanianNaming_Determination.git`)
+2. Use this command to clone (`git clone https://github.com/kimutaimeshack/Delani-Studio.git`)
 3. This will clone the repositoty into your local folder
 *********
 ### How to contribute
@@ -37,11 +37,11 @@ To access this project on your local files, you can clone it using these steps
 To fix a bug or enhance an existing module, follow these steps:
 
 - Fork the repo
-- Create a new branch (`git checkout -b contribute-to-mesh`)
+- Create a new branch (`git checkout -b contribute-to-delani-studio`)
 - Make the appropriate changes in the files
 - Add changes to reflect the changes made
-- Commit your changes (`git commit -am 'contribute-to-mesh'`)
-- Push to the branch (`git push origin contribute-to-mesh`)
+- Commit your changes (`git commit -am 'contribute-to-delani-studio'`)
+- Push to the branch (`git push origin contribute-to-delani-studio`)
 - Create a Pull Request 
 
 *********

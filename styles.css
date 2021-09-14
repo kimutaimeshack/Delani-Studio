@@ -211,3 +211,6 @@ justify-content: center;
   text-align: center;
   padding-top: 180px;
 }
+textarea {
+ color: blue;
+}

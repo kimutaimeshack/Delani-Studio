@@ -14,7 +14,7 @@ This is a practical project to implement everything I have learned from Bootstra
 </table>
 
 ### Home page
-![alt text](https://github.com/kimutaimeshack/GhanianNaming_Determination/blob/main/img/ghananian.png)
+![alt text](https://github.com/kimutaimeshack/Delani-Studio/blob/main/img/DELANISTUDIO.webm)
 *********
 ## project live link
 Here is a working live link : https://kimutaimeshack.github.io/GhanianNaming_Determination/

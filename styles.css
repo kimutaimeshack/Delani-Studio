@@ -207,9 +207,9 @@ justify-content: center;
   background-repeat: no-repeat;
 }
 
-#contactus{
+.contactus{
   text-align: center;
-  padding-top: 180px;
+  padding-top: 280px;
 }
 textarea {
  color: blue;

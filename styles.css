@@ -219,3 +219,6 @@ textarea {
   width: 50px;
   justify-content: space-between;
 }
+.text-white{
+  text-align: center;
+}

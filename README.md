@@ -1,7 +1,7 @@
 # Delani-Studio
 *********
 ## Author
-MESHACK KIMUTAI
+[MESHACK KIMUTAI](https://github.com/kimutaimeshack)
 *********
 ## Description
 
